@@ -6,4 +6,4 @@ En este proyecto utilizo funciones de manipulación de DOM, etiquetas semántica
 
 ![buscador2](https://user-images.githubusercontent.com/106411246/198856039-0aa5c2d7-d6a6-4c6b-878e-5dee3a555202.jpg)
 
-![buscador3](https://user-images.githubusercontent.com/106411246/198856061-e000816c-4dbf-47f6-9807-bfaaa31b3982.jpg)
+![buscador3](https://user-images.githubusercontent.com/106411246/198856088-aca4d54f-a219-4221-a1d7-42454a795d1e.jpg)
